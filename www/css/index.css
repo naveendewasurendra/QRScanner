@@ -91,6 +91,10 @@ h1 {
     background-color:#333333;
     display:block;
 }
+.sidebar{
+    background-color: #333333;
+    display:block;
+}
 
 .event.received {
     background-color:#4B946A;
